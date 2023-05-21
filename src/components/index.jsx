@@ -4,11 +4,12 @@ import Header from "./header/Header";
 import Img from "./lazyLoadImage/Img";
 import SwitchTabs from "./switchTabs/SwitchTabs";
 import Carousel from "./carousel/Carousel";
-import CircleRating from "./circleRating/circleRating";
-import Genres from "./genres/genres";
 import VideoPopup from "./videoPopup/VideoPop";
 import Spinner from "./Spinner/Spinner";
 import MovieCard from "./movieCard/MovieCard";
+import CircleRating   from  './circleRating/CircleRating';
+import Genres from './genres/Genres';
+
 
 export {
   Footer,
