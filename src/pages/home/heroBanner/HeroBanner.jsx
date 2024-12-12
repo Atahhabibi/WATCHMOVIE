@@ -42,7 +42,7 @@ const HeroBanner = () => {
 
       <ContentWrapper className="wrapper">
         <div className="heroBannerContent">
-          <span className="title">Watch Movie</span>
+          <span className="title">StreamNest</span>
           <span className="subtitle">
             Millions of movies, TV shows and people to discover. Explore now
           </span>
